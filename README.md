@@ -54,7 +54,8 @@ The dataset reveals a portfolio driven by a small concentration of high-value bo
 2. *Corporate customers are the highest-value segment* — higher average room rates make them the top-spending customer type, concentrated in direct low-commission channels
 3. *Presidential Suites drive outsized revenue* — accounting for 70% of the top 10 bookings, confirming strong demand at the premium end with no signs of oversupply
 
-[Visualisation: Dashboard_Vertical.png]
+<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/66c657c4-cc46-4cd7-90da-2affda1542b1" />
+
 
 ---
 
