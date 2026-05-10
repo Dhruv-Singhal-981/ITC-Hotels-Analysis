@@ -112,7 +112,8 @@ The Pearson correlation between Discount and Customer Rating is approximately ze
 *Insight 2 — Negative feedback is concentrated in specific properties, not spread evenly.*
 Counting negative feedback bookings per hotel name reveals that certain properties account for a disproportionate share of complaints. This makes property-level intervention more effective than a brand-wide satisfaction initiative.
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b5072926-0bec-49cc-a3d3-0661fcf97fc6" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/29beb412-e52a-4455-b278-0b3f595bc839" />
+
 
 
 
