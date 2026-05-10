@@ -2,7 +2,7 @@
 
 ## Project Background
 
-ITC Hotels is one of India's largest luxury hospitality chains, operating across multiple cities under several hotel categories. Key business metrics include Net Revenue, room rates, occupancy, customer ratings, and booking channel performance.
+ITC Hotels is one of India's largest luxury hospitality chains, operating across multiple cities under several hotel categories. Key business metrics include Net Revenue, room rates, customer ratings, and booking channel performance.
 
 This project analyses a transactional booking dataset spanning *2021–2022*, a period that covers COVID-19's operational impact and the early recovery phase. The goal is to surface actionable insights across revenue performance, customer behaviour, booking channels, and guest satisfaction.
 
@@ -111,6 +111,8 @@ The Pearson correlation between Discount and Customer Rating is approximately ze
 
 *Insight 2 — Negative feedback is concentrated in specific properties, not spread evenly.*
 Counting negative feedback bookings per hotel name reveals that certain properties account for a disproportionate share of complaints. This makes property-level intervention more effective than a brand-wide satisfaction initiative.
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b5072926-0bec-49cc-a3d3-0661fcf97fc6" />
 
 
 
