@@ -20,6 +20,8 @@ The complete notebook (.ipynb) containing all code, analysis, and visualisations
 
 The dataset is a single CSV file (ITC_Hotels.csv) with *28 columns* covering booking details, financials, guest information, and satisfaction metrics.
 
+Dataset Link: https://www.kaggle.com/datasets/dhruvsinghalanalyst/itc-hotels-booking-and-revenue-analysis
+
 | Group | Columns |
 |---|---|
 | *Booking Info* | Booking_ID, Hotel_Name, Hotel_Category, City, State, Country |
