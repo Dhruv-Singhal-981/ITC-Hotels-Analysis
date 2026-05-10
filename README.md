@@ -71,7 +71,7 @@ Sorting all bookings by Net Revenue and isolating the top 10 shows Presidential 
 
 
 
-
+---
 
 
 
@@ -86,7 +86,8 @@ Among all booking channels, these two direct channels rank highest on average Ne
 *Insight 3 — Credit Card payments are associated with the highest average Net Revenue.*
 Credit Card is the top payment mode by average revenue per booking, reflecting its concentration among higher-spending customer segments. This makes it the priority mode when building payment infrastructure.
 
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/2b216628-a53e-43d9-89ca-7febd2537d94" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ff27dfc8-79df-45ad-90c0-4d00f7099276" />
+
 
 
 ---
