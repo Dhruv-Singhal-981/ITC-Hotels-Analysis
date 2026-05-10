@@ -54,7 +54,7 @@ The dataset reveals a portfolio driven by a small concentration of high-value bo
 2. *Corporate customers are the highest-value segment* — higher average room rates make them the top-spending customer type, concentrated in direct low-commission channels
 3. *Presidential Suites drive outsized revenue* — accounting for 70% of the top 10 bookings, confirming strong demand at the premium end with no signs of oversupply
 
-dashboard
+
 
 
 ---
@@ -72,7 +72,7 @@ Sorting all bookings by Net Revenue and isolating the top 10 shows Presidential 
 *Insight 3 — Revenue distribution is positively skewed, making averages unreliable at the portfolio level.*
 Mean (₹49,716) sits notably above median (₹42,477), and a high standard deviation reflects the wide gap between modest short stays and multi-night premium bookings in the same dataset. Revenue analysis is only meaningful at the segment level — by category and room type — not at the portfolio level.
 
-[Visualisation: Net_Revenue_by_Category.png]
+
 
 ---
 
@@ -87,7 +87,7 @@ Among all booking channels, these two direct channels rank highest on average Ne
 *Insight 3 — Credit Card payments are associated with the highest average Net Revenue.*
 Credit Card is the top payment mode by average revenue per booking, reflecting its concentration among higher-spending customer segments. This makes it the priority mode when building payment infrastructure.
 
-[Visualisation: Dashboard_Vertical.png — Sales Leads by Booking Channel]
+
 
 ---
 
@@ -102,7 +102,7 @@ The monthly Net Revenue line chart and 2021 vs 2022 quarterly bar charts show ho
 *Insight 3 — Cumulative and differential quarterly analysis quantifies recovery pace.*
 Applying np.cumsum() on quarterly Net Revenue shows total revenue accumulation across quarters, while np.diff() isolates quarter-on-quarter changes. Together these give a precise view of where revenue momentum shifted across the two years.
 
-[Visualisation: 2021_vs_2022_Quarterly_Net_Revenue.png · Net_Revenue_by_Month.png]
+
 
 ---
 
@@ -114,7 +114,7 @@ The Pearson correlation between Discount and Customer Rating is approximately ze
 *Insight 2 — Negative feedback is concentrated in specific properties, not spread evenly.*
 Counting negative feedback bookings per hotel name reveals that certain properties account for a disproportionate share of complaints. This makes property-level intervention more effective than a brand-wide satisfaction initiative.
 
-[Visualisation: Customer_Rating_Distribution.png]
+
 
 ---
 
