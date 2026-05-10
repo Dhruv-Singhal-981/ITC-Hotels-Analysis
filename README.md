@@ -1,15 +1,15 @@
-# ITC Hotels - Data Analytics Project
-
+# ITC Hotels
+---
 ## Project Background
 
 ITC Hotels is one of India's largest luxury hospitality chains, operating across multiple cities under several hotel categories. Key business metrics include Net Revenue, room rates, customer ratings, and booking channel performance.
 
-This project analyses a transactional booking dataset spanning *2021–2022*, a period that covers COVID-19's operational impact and the early recovery phase. The goal is to surface actionable insights across revenue performance, customer behaviour, booking channels, and guest satisfaction.
-
+This project analyses a transactional booking dataset spanning *2021–2022*, a period that covers COVID-19's operational impact. The goal is to surface actionable insights across revenue performance, customer behaviour, booking channels, and guest satisfaction.
+ 
 Insights and recommendations are provided on the following key areas:
 - *Revenue Performance* — Hotel category, room type, and city-level revenue
 - *Customer & Booking Behaviour* — Customer type spend, booking channels, and payment modes
-- *COVID & Seasonal Trends* — Impact of COVID severity on revenue and quarterly patterns
+- *COVID Impact* — Impact of COVID severity on revenue and quarterly patterns
 - *Customer Satisfaction* — Rating distribution, discount correlation, and feedback analysis
 
 The complete notebook (.ipynb) containing all code, analysis, and visualisations is available in this repository.
@@ -94,7 +94,7 @@ Credit Card is the top payment mode by average revenue per booking, reflecting i
 
 ---
 
-### Category 3: COVID & Seasonal Trends
+### Category 3: COVID Impact
 
 *Insight — High COVID impact periods produced the lowest average revenue per booking.*
 Grouping Net Revenue by Covid_Impact level shows a clear inverse relationship. High Impact periods suppressed revenue through government-mandated occupancy caps and frozen corporate travel — ITC's highest-value customer segment.
