@@ -96,8 +96,7 @@ Credit Card is the top payment mode by average revenue per booking, reflecting i
 *Insight 1 — High COVID impact periods produced the lowest average revenue per booking.*
 Grouping Net Revenue by Covid_Impact level shows a clear inverse relationship. High Impact periods suppressed revenue through government-mandated occupancy caps and frozen corporate travel — ITC's highest-value customer segment.
 
-*Insight 2 — Quarterly and monthly revenue patterns are visible across the two-year period.*
-The monthly Net Revenue line chart and 2021 vs 2022 quarterly bar charts show how revenue moved across the dataset period. While both years follow comparable quarterly patterns, the side-by-side charts provide a useful reference for understanding how restrictions shaped booking behaviour across quarters.
+
 
 <img width="2700" height="1000" alt="image" src="https://github.com/user-attachments/assets/88f88830-0239-458a-9899-b6796c38cc3b" />
 
