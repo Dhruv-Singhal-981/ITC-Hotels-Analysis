@@ -54,7 +54,7 @@ The dataset reveals a portfolio driven by a small concentration of high-value bo
 2. *Corporate customers are the highest-value segment* — higher average room rates make them the top-spending customer type, concentrated in direct low-commission channels
 3. *Presidential Suites drive outsized revenue* — accounting for 70% of the top 10 bookings, confirming strong demand at the premium end with no signs of oversupply
 
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/66c657c4-cc46-4cd7-90da-2affda1542b1" />
+dashboard
 
 
 ---
@@ -138,24 +138,3 @@ Dissatisfaction is property-specific, not a brand-wide issue. Targeted audits at
 *6. Protect Presidential Suite pricing during peak periods.*
 With 70% of top 10 bookings coming from Presidential Suites and strong willingness-to-pay confirmed, these rooms should never be discounted during high-demand periods.
 
----
-
-## Assumptions and Caveats
-
-*1. Duplicate records were treated as data entry errors.*
-Duplicate rows were identified and removed. They were assumed to be unintentional rather than legitimate identical bookings.
-
-*2. Whitespace in string columns was treated as a formatting artefact.*
-Stripping was applied uniformly across all object-type columns without case-by-case review.
-
-*3. Net Revenue was used as the primary revenue metric throughout.*
-Gross Revenue includes discounts and was considered a less accurate measure of actual performance. All revenue comparisons use Net Revenue unless stated otherwise.
-
-*4. Covid_Impact levels are treated as categorical labels only.*
-No external severity index was used to validate or weight the categories. The analysis treats them as equal-interval groups, which may not reflect actual severity differences.
-
-*5. Customer Type labels are taken at face value.*
-No adjustment was made for potential misclassification. Labels are assumed to accurately reflect customer status at the time of booking.
-
-*6. Findings are specific to 2021–2022.*
-The dataset covers a period heavily shaped by COVID-19. Insights related to impact levels, seasonal patterns, and customer behaviour should be validated against more recent data before being used for active decisions.
