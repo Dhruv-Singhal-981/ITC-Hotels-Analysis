@@ -69,8 +69,7 @@ The Luxury hotel category ranks first in total revenue, average revenue per book
 *Insight 2 — Presidential Suites account for 70% of the top 10 revenue bookings.*
 Sorting all bookings by Net Revenue and isolating the top 10 shows Presidential Suites dominate. This confirms that ultra-premium inventory has a strong and consistent willingness-to-pay with no signs of being oversupplied.
 
-*Insight 3 — Revenue distribution is positively skewed, making averages unreliable at the portfolio level.*
-Mean (₹49,716) sits notably above median (₹42,477), and a high standard deviation reflects the wide gap between modest short stays and multi-night premium bookings in the same dataset. Revenue analysis is only meaningful at the segment level — by category and room type — not at the portfolio level.
+
 
 
 
@@ -99,8 +98,6 @@ Grouping Net Revenue by Covid_Impact level shows a clear inverse relationship. H
 *Insight 2 — Quarterly and monthly revenue patterns are visible across the two-year period.*
 The monthly Net Revenue line chart and 2021 vs 2022 quarterly bar charts show how revenue moved across the dataset period. While both years follow comparable quarterly patterns, the side-by-side charts provide a useful reference for understanding how restrictions shaped booking behaviour across quarters.
 
-*Insight 3 — Cumulative and differential quarterly analysis quantifies recovery pace.*
-Applying np.cumsum() on quarterly Net Revenue shows total revenue accumulation across quarters, while np.diff() isolates quarter-on-quarter changes. Together these give a precise view of where revenue momentum shifted across the two years.
 
 
 
