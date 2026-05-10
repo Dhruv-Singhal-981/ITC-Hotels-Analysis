@@ -55,6 +55,7 @@ The dataset reveals a portfolio driven by a small concentration of high-value bo
 3. *Presidential Suites drive outsized revenue* — accounting for 70% of the top 10 bookings, confirming strong demand at the premium end with no signs of oversupply
 
 
+<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/067a9aa4-9dc9-4416-b46a-c787684c835f" />
 
 
 ---
