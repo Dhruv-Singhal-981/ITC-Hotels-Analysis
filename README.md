@@ -70,6 +70,7 @@ The Luxury hotel category ranks first in total revenue, average revenue per book
 *Insight 2 — Presidential Suites account for 70% of the top 10 revenue bookings.*
 Sorting all bookings by Net Revenue and isolating the top 10 shows Presidential Suites dominate. This confirms that ultra-premium inventory has a strong and consistent willingness-to-pay with no signs of being oversupplied.
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/9a118198-8224-4b27-aa96-5d6a12890331" />
 
 
 ---
@@ -95,7 +96,7 @@ Credit Card is the top payment mode by average revenue per booking, reflecting i
 
 ### Category 3: COVID & Seasonal Trends
 
-*Insight 1 — High COVID impact periods produced the lowest average revenue per booking.*
+*Insight — High COVID impact periods produced the lowest average revenue per booking.*
 Grouping Net Revenue by Covid_Impact level shows a clear inverse relationship. High Impact periods suppressed revenue through government-mandated occupancy caps and frozen corporate travel — ITC's highest-value customer segment.
 
 
